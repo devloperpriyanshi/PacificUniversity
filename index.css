@@ -873,7 +873,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 .menuzord-menu {
 	margin:0;
 	padding:0;
-	float:right;
 	margin-right:45px;
 	list-style:none
 }
