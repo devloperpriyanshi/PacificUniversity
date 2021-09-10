@@ -34,12 +34,12 @@
 .menuzord-menu {
 	margin:0;
 	padding:0;
-	float:right;
+	float:left;
 	margin-right:45px;
 	list-style:none
 }
 .menuzord-menu.menuzord-right {
-	float:right
+	float:left;
 }
 .menuzord-menu>li {
 	display:inline-block;
