@@ -876,9 +876,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 	margin-right:45px;
 	list-style:none
 }
-.menuzord-menu.menuzord-right {
-	float:right
-}
+
 .menuzord-menu>li {
 	display:inline-block;
 	float:left
