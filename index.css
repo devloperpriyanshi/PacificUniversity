@@ -26,7 +26,7 @@ div {
 }
 body {
     font: normal 14px 'Open Sans';
-    background: url(../images/logo_x_pattern.png) repeat fixed;
+    background: url('./images/logo_x_pattern.png') repeat fixed;
 }
 body {
     background: #333;
@@ -1310,7 +1310,7 @@ strong{font-weight:600;}
 .showtab{position:absolute; background:#353646; padding:8px; cursor:pointer; margin-top:3px; right:0; z-index:9999999;}
 .showtab img:hover{transform:rotate(45deg); }
 
-#navigationmenu{background:url(../images/navigation-bg.png) repeat; height:75px; border-bottom:1px solid #4f6ecc; z-index:100000; position:fixed; width:100%;background: #4f6ecc;}
+#navigationmenu{background:url('./images/navigation-bg.png') repeat; height:75px; border-bottom:1px solid #4f6ecc; z-index:100000; position:fixed; width:100%;background: #4f6ecc;}
 #slid{position:relative; border:1px solid #3A4A9B; margin-top:50px;}
 #banner{position:relative; border:1px solid #3A4A9B; margin-top:50px;}
 #banner .banner img{width:100%;}
